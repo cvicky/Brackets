@@ -2,7 +2,7 @@
 
   
 # Developer Workstation Setup
-This Skyfit repository uses Node.js version 4.5.0. so you will need to install nvm in order to ensure that you are using the correct version.
+This Skyfit repository uses Node.js version 4.5.0 so install nvm in order to ensure that you are using the correct version.
 
 1. Make sure all the prerequisites are installed (see below).
 2. Clone this repo and switch into node version 4.5.0
