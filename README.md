@@ -12,6 +12,9 @@
 2. Make sure that Node.js, nvm, and MongoDB are installed.
 
 	-Node.js and npm [link](https://nodejs.org/en/)
+	```
+	brew install node
+	```
 
 	-nvm [link](https://github.com/creationix/nvm/blob/master/README.markdown)
 	```
